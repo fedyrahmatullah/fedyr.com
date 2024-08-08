@@ -29,7 +29,7 @@
                 </div>
                 <div class="links">
                      <?php if (!empty($project['url'])) : ?>
-                        <a href="<?= $project['source'] ?>" target="_blank"><i class="fas fa-arrow-right"></i> Visit Project</a>
+                        <a href="<?= $project['url'] ?>" target="_blank"><i class="fas fa-arrow-right"></i> Visit Project</a>
                     <?php endif; ?>
                     
                     <?php if (!empty($project['source'])) : ?>

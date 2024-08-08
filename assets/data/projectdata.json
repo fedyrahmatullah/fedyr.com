@@ -1,21 +1,21 @@
 [
-    {
-      "title": "CekIPK Website",
+  {
+    "title": "Hidrologi-PUPR Website",
+    "image": "assets/img/project/pupr2.png",
+    "description": "Hidrologi-PUPR is a collaborative project with Direktorat Jenderal SDA BBWS Brantas - Kementerian PUPR. You can view the distribution of 'Hydrology Stations' and 'Water Quality Monitoring Stations' in each area using the map.",
+    "createdAt": "2024-02-06",
+    "technology": ["js", "HTML", "CSS", "IMAGEMAP"],
+    "url": "https://hidrologi-pupr.vercel.app/",
+    "source": null
+  },
+  {
+      "title": "CekIPK",
       "image": "assets/img/project/cekipkwebsite.png",
       "description": "A simple app to calculate a Student's GPA score each semester and their total GPA score.",
       "createdAt": "2021-09-01",
       "technology": ["HTML", "CSS", "PHP"],
       "url": null,
       "source": "https://github.com/fedyrahmatullah/cekipk"
-    },
-    {
-      "title": "New Ketringan.com",
-      "image": "assets/img/project/project1.png",
-      "description": "Next version ketringan.com build with Next.js & chakra-UI.",
-      "createdAt": "2021-01-01",
-      "technology": ["js", "react", "nextjs", "chakra"],
-      "url": "https://ketringan.com/",
-      "source": null
     }
   ]
   
