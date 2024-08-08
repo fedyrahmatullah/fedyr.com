@@ -1,12 +1,12 @@
 [
     {
-      "title": "PkDx",
-      "image": "assets/img/project/project2.png",
-      "description": "A simple pokedex opensource web apps built with react.js & typescript.",
-      "createdAt": "2021-12-02",
-      "technology": ["js", "react", "graphql", "emotion-css"],
-      "url": "https://pkdx.wisesa.dev/",
-      "source": "https://github.com/kelilipan/pkdx"
+      "title": "CekIPK Website",
+      "image": "assets/img/project/cekipkwebsite.png",
+      "description": "A simple app to calculate a Student's GPA score each semester and their total GPA score.",
+      "createdAt": "2021-09-01",
+      "technology": ["HTML", "CSS", "PHP"],
+      "url": null,
+      "source": "https://github.com/fedyrahmatullah/cekipk"
     },
     {
       "title": "New Ketringan.com",

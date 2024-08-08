@@ -8,20 +8,6 @@
     <p class="section__text__p1">Browse My Recent</p>
     <h1 class="title">Projects</h1>
     <br>
-    <!-- filtering content -->
-<!-- 
-    <br> -->
-    <!-- end of filter -->
-    <!-- </section> -->
-<!-- 
-    <div class="experience-details-container">
-      <div class="about-containers"> -->
-
-
-        <!-- WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT -->
-        <!-- WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT -->
-        <!-- WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT -->
-        <!-- WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT WEBSITE PROJECT -->
 
 
             <?php
@@ -42,7 +28,10 @@
                     <?php endforeach; ?>
                 </div>
                 <div class="links">
-                    <a href="<?= $project['url'] ?>" target="_blank"><i class="fas fa-arrow-right"></i> Visit Project</a>
+                     <?php if (!empty($project['url'])) : ?>
+                        <a href="<?= $project['source'] ?>" target="_blank"><i class="fas fa-arrow-right"></i> Visit Project</a>
+                    <?php endif; ?>
+                    
                     <?php if (!empty($project['source'])) : ?>
                         <a href="<?= $project['source'] ?>" target="_blank"><i class="fas fa-code"></i> Source Code</a>
                     <?php endif; ?>
@@ -53,23 +42,6 @@
 </div>
 
     </section>
-
-          <!-- END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT  -->
-          <!-- END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT  -->
-          <!-- END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT END OF WEBSITE PROJECT  -->
-
-
-
- 
-
-          <!-- END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT  -->
-          <!-- END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT  -->
-          <!-- END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT END OF DATA PROJECT  -->
-
-
-        <!-- </div>
-      </div> -->
-
 
 
       <!-- ======= footer ======= -->
