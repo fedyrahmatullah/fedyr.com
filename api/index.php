@@ -1,7 +1,7 @@
 
   <!-- ======= Header ======= -->
   <?php $title = "Hi I'm Fedy.";
-  include'header.php';?>
+  include(__DIR__ . '/header.php')?>
   <!-- End Header -->
 
     <!-- profile section -->
