@@ -1,0 +1,21 @@
+[
+    {
+      "title": "PkDx",
+      "image": "assets/img/project/project2.png",
+      "description": "A simple pokedex opensource web apps built with react.js & typescript.",
+      "createdAt": "2021-12-02",
+      "technology": ["js", "react", "graphql", "emotion-css"],
+      "url": "https://pkdx.wisesa.dev/",
+      "source": "https://github.com/kelilipan/pkdx"
+    },
+    {
+      "title": "New Ketringan.com",
+      "image": "assets/img/project/project1.png",
+      "description": "Next version ketringan.com build with Next.js & chakra-UI.",
+      "createdAt": "2021-01-01",
+      "technology": ["js", "react", "nextjs", "chakra"],
+      "url": "https://ketringan.com/",
+      "source": null
+    }
+  ]
+  
