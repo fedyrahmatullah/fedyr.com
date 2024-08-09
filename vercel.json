@@ -34,6 +34,14 @@
       "dest": "/public/assets/img/project/$1"
     },
     {
+      "src": "/assets/img/project/(.*).jpg",
+      "dest": "/public/assets/img/project/$1"
+    },
+    {
+      "src": "/assets/img/project/(.*).jpeg",
+      "dest": "/public/assets/img/project/$1"
+    },
+    {
       "src": "/assets/data/projectdata.json",
       "dest": "/public/assets/data/projectdata.json"
     },
