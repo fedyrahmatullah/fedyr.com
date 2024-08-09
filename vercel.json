@@ -14,8 +14,8 @@
       "dest": "/api/projects.php"
     },
     {
-      "src": "/about.php",
-      "dest": "/public/about.php"
+      "src": "/api/about.php",
+      "dest": "/api/about.php"
     },
     {
       "src": "/assets/css/(.*).css",
@@ -32,10 +32,6 @@
     {
       "src": "/assets/data/projectdata.json",
       "dest": "/public/assets/data/projectdata.json"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
     }
   ]
 }
