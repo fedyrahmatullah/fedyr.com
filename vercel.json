@@ -18,6 +18,10 @@
       "dest": "/api/projects.php"
     },
     {
+      "src": "/about.php",
+      "dest": "/api/about.php"
+    },
+    {
       "src": "/assets/css/(.*).css",
       "dest": "/public/assets/css/$1"
     },
@@ -32,6 +36,10 @@
     {
       "src": "/assets/data/projectdata.json",
       "dest": "/public/assets/data/projectdata.json"
+    },
+    {
+      "src": "/assets/resume-example.pdf",
+      "dest": "/public/assets/resume-example.pdf"
     },
     {
       "src": "/(.*)",
