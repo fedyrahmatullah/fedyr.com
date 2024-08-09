@@ -26,6 +26,10 @@
       "dest": "/public/assets/css/$1"
     },
     {
+      "src": "/assets/js/(.*).js",
+      "dest": "/public/assets/js/$1"
+    },
+    {
       "src": "/assets/img/(.*).png",
       "dest": "/public/assets/img/$1"
     },
