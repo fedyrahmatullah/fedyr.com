@@ -2,26 +2,12 @@
   "functions": {
       "api/index.php": {
           "runtime": "vercel-php@0.6.0"
-      },
-      "api/projects.php": {
-        "runtime": "vercel-php@0.6.0"
-      },
-      "api/about.php": {
-        "runtime": "vercel-php@0.6.0"
       }
   },
   "routes": [
     {
       "src": "/api/index.php",
       "dest": "/api/index.php"
-    },
-    {
-      "src": "/api/projects.php",
-      "dest": "/api/projects.php"
-    },
-    {
-      "src": "/api/about.php",
-      "dest": "/api/about.php"
     },
     {
       "src": "/assets/css/(.*).css",
