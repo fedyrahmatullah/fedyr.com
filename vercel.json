@@ -28,6 +28,10 @@
     {
       "src": "/assets/data/projectdata.json",
       "dest": "/public//assets/data/projectdata.json"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.php"
     }
   ]
 }
