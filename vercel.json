@@ -10,6 +10,14 @@
       "dest": "/api/index.php"
     },
     {
+      "src": "/projects.php",
+      "dest": "/public/projects.php"
+    },
+    {
+      "src": "/about.php",
+      "dest": "/public/about.php"
+    },
+    {
       "src": "/assets/css/(.*).css",
       "dest": "/public/assets/css/$1"
     },
@@ -27,7 +35,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/api/index.php"
+      "dest": "/public/$1"
     }
   ]
 }
