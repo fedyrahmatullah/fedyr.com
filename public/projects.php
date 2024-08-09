@@ -11,7 +11,7 @@
 
 
             <?php
-            $projects = json_decode(file_get_contents('assets/data/projectdata.json'), true);
+            $projects = json_decode(file_get_contents(__DIR__ . "/assets/data/projectdata.json"), true);
             ?>
 
 <div class="project-container">
