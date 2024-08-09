@@ -14,6 +14,10 @@
       "dest": "/api/projects.php"
     },
     {
+      "src": "/projects.php",
+      "dest": "/api/projects.php"
+    },
+    {
       "src": "/assets/css/(.*).css",
       "dest": "/public/assets/css/$1"
     },
