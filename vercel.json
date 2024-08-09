@@ -14,16 +14,12 @@
       "dest": "/public/header.php"
     },
     {
-      "src": "projects.php",
+      "src": "/projects.php",
       "dest": "/public/projects.php"
     },
     {
-      "src": "assets/css/(.*).css",
+      "src": "/assets/css/(.*).css",
       "dest": "/public/assets/css/$1"
-    },
-    {
-      "src": "style.css",
-      "dest": "/public/style.css"
     },
     {
       "src": "/assets/img/(.*).png",
