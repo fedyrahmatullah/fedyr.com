@@ -10,10 +10,6 @@
       "dest": "/api/index.php"
     },
     {
-      "src": "header.php",
-      "dest": "/public/header.php"
-    },
-    {
       "src": "/projects.php",
       "dest": "/public/projects.php"
     },
