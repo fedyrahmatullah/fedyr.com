@@ -30,6 +30,14 @@
       "dest": "/public/assets/img/$1"
     },
     {
+      "src": "/assets/img/(.*).jpg",
+      "dest": "/public/assets/img/$1"
+    },
+    {
+      "src": "/assets/img/(.*).jpeg",
+      "dest": "/public/assets/img/$1"
+    },
+    {
       "src": "/assets/img/project/(.*).png",
       "dest": "/public/assets/img/project/$1"
     },
