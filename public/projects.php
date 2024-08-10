@@ -17,7 +17,9 @@
 <div class="project-container">
     <?php foreach ($projects as $project) : ?>
         <div class="project-card">
+        <div class="image-container">
             <img src="<?= $project['image'] ?>" alt="<?= $project['title'] ?>">
+        </div>
             <div class="project-card-content">
                 <h2><?= $project['title'] ?></h2>
                 <p>Created at <?= date('F Y', strtotime($project['createdAt'])) ?></p>
