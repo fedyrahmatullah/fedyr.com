@@ -266,57 +266,77 @@ section {
 
 /* ABOUT SECTION */
 
+#about, #contact {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
 #about {
-  position: relative;
+  padding-bottom: 40px; /* add extra space to avoid overlap */
 }
-
-.about-containers {
-  gap: 2rem;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+#contact {
+  margin-top: 40px;
+  padding-bottom: 40px; /* add extra space to avoid overlap */
 }
-
-.about-details-container {
-  justify-content: center;
-  flex-direction: column;
-}
-
-.about-containers,
-.about-details-container {
-  display: flex;
+.about-pic-container {
+  margin-bottom: 20px;
 }
 
 .about-pic {
-  border-radius: 2rem;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
 }
 
-.arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 2.5rem;
+.about-text-container {
+  text-align: justify;
+  padding: 0 10px;
 }
 
-.details-container {
-  padding: 1.5rem;
-  flex: 1;
-  background: white;
-  border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
-  text-align: center;
+#contact {
+  margin-top: 40px;
 }
 
-.section-container {
-  gap: 4rem;
-  height: 80%;
+.contact-info-upper-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 }
 
-.section__pic-container {
-  height: 400px;
-  width: 400px;
-  margin: auto 0;
+.contact-info-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
+.contact-icon {
+  width: 30px;
+  height: 30px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .about-text-container {
+      text-align: left;
+  }
+
+  .contact-info-upper-container {
+      flex-direction: row;
+      justify-content: center;
+  }
+}
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -388,43 +408,6 @@ article .icon {
 
 /* CONTACT */
 
-#contact {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  height: 70vh;
-}
-
-.contact-info-upper-container {
-  display: flex;
-  justify-content: center;
-  border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
-  background: (250, 250, 250);
-  margin: 2rem auto;
-  padding: 0.5rem;
-}
-
-.contact-info-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-  margin: 1rem;
-}
-
-.contact-info-container p {
-  font-size: larger;
-}
-
-.contact-icon {
-  cursor: default;
-}
-
-.email-icon {
-  height: 2.5rem;
-}
 
 /* FOOTER SECTION */
 
