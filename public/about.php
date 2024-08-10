@@ -18,7 +18,7 @@
       </p>
       <br>
       <p>
-        During my time in college, I was actively involved in several organizations, serving as the Head of the Information Systems Division at HMJ TI State Polytechnic of Jember and as the Coordinator for the Informatics Engineering Students of 2017, also known as the "Ketua Angkatan." These experiences have shaped my approach to problem-solving and fueled my drive to continuously grow in the field of data.
+        During my time in college, I was actively involved in several organizations, serving as Head of Information Systems Division at HMJ TI Politeknik Negeri Jember and as Coordinator for Informatics Engineering Students of 2017, also known as "Ketua Angkatan." These experiences have shaped my approach to problem-solving and fueled my drive to continuously grow in the field of data.
       </p>
     </div>
   </section>
