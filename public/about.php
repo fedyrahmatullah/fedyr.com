@@ -40,14 +40,14 @@
       <br>
       <div class="contact-text-container">
         <p>
-        <ul>
-            <li  style="margin-bottom: 15px;"><strong>Email</strong> - <a href="mailto:fedy.rahmatullah@gmail.com">fedy.rahmatullah@gmail.com</a></li>
-            <li  style="margin-bottom: 15px;"><strong>Github</strong> - <a href="https://github.com/fedyrahmatullah" target="_blank">https://github.com/fedyrahmatullah</a></li>
-            <li  style="margin-bottom: 15px;"><strong>Instagram</strong> - <re href="https://instagram.com/fedyr_" target="_blank">https://instagram.com/fedyr_</a></li>
-            <li  style="margin-bottom: 15px;"><strong>LinkedIn</strong> - <a href="https://www.linkedin.com/in/fedyrahmatullah/" target="_blank">https://www.linkedin.com/in/fedyrahmatullah/</a></li>
-            <li  style="margin-bottom: 15px;"><strong>Medium</strong> - <a href="https://medium.com/@fedyr" target="_blank">https://medium.com/@fedyr</a></li>
-            <li  style="margin-bottom: 15px;"><strong>Tableau Public</strong> - <a href="https://public.tableau.com/app/profile/fedy.rahmatullah" target="_blank">https://public.tableau.com/app/profile/fedy.rahmatullah</a></li>
-            <li  style="margin-bottom: 15px;"><strong>Shutterstock</strong> - <a href="https://www.shutterstock.com/id/g/fedyr" target="_blank">https://www.shutterstock.com/id/g/fedyr</a></li>
+        <ul style=" list-style-position: inside;">
+            <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Email</strong> - <a href="mailto:fedy.rahmatullah@gmail.com">fedy.rahmatullah@gmail.com</a></li>
+            <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Github</strong> - <a href="https://github.com/fedyrahmatullah" target="_blank">https://github.com/fedyrahmatullah</a></li>
+            <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Instagram</strong> - <re href="https://instagram.com/fedyr_" target="_blank">https://instagram.com/fedyr_</a></li>
+            <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>LinkedIn</strong> - <a href="https://www.linkedin.com/in/fedyrahmatullah/" target="_blank">https://www.linkedin.com/in/fedyrahmatullah/</a></li>
+            <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>Medium</strong> - <a href="https://medium.com/@fedyr" target="_blank">https://medium.com/@fedyr</a></li>
+            <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>Tableau Public</strong> - <a href="https://public.tableau.com/app/profile/fedy.rahmatullah" target="_blank">https://public.tableau.com/app/profile/fedy.rahmatullah</a></li>
+            <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Shutterstock</strong> - <a href="https://www.shutterstock.com/id/g/fedyr" target="_blank">https://www.shutterstock.com/id/g/fedyr</a></li>
         </ul>
 
         </p>
