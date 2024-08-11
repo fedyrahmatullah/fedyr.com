@@ -313,6 +313,11 @@ section {
   gap: 10px;
 }
 
+.contact-text-container {
+  max-width: 600px; /* Adjust as needed */
+  margin: 0 auto; /* Centers the container */
+  text-align: left; /* Align text to the left */
+}
 .contact-icon {
   width: 30px;
   height: 30px;

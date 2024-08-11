@@ -32,8 +32,7 @@
   <section id="contact">
     <p class="section__text__p1">Get in Touch</p>
     <h1 class="title">Contact Me</h1>
-    <div class="contact-info-upper-container">
-    <div class="about-text-container">
+    <div class="contact-text-container">
       <p color="black">
       I'm always eager to connect with new people, so feel free to reach out to me through my social media channels below :
       </p>
@@ -50,7 +49,6 @@
 		  </ul>
 
       </p>
-    </div>
       </div>
     </div>
   </section>
