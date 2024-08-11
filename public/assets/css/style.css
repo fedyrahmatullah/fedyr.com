@@ -342,6 +342,11 @@ a:hover {
       flex-direction: row;
       justify-content: center;
   }
+
+  .contact-text-container {
+
+    text-align: left; /* Align text to the left */
+  }
 }
 /* EXPERIENCE SECTION */
 
