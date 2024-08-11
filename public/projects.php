@@ -23,7 +23,7 @@
             <div class="project-card-content">
                 <h2><?= $project['title'] ?></h2>
                 <p>Created at <?= date('F Y', strtotime($project['createdAt'])) ?></p>
-                <p><?= $project['description'] ?></p>
+                <p class="project-desc"><?= $project['description'] ?></p>
                 <div class="tech-tags">
                     <?php foreach ($project['technology'] as $tech) : ?>
                         <div class="tech-tag bg-blue-300"><?= is_array($tech) ? $tech['name'] : $tech ?></div>
