@@ -10,7 +10,7 @@
   },
   {
       "title": "CekIPK",
-      "image": "https://res.cloudinary.com/djwn34zsp/image/upload/v1723352803/cekipkwebsite_cbolvk.png",
+      "image": "assets/img/project/cekipkwebsite.png",
       "description": "A simple app to calculate a Student's GPA score each semester and their total GPA score.",
       "createdAt": "2021-09-01",
       "technology": ["HTML", "CSS", "PHP"],
