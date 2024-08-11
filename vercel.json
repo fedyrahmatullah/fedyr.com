@@ -54,6 +54,10 @@
       "dest": "/public/assets/img/project/$1"
     },
     {
+      "src": "/cloudinary/(.*)",
+      "dest": "https://res.cloudinary.comd/jwn34zsp/image/upload/$1"
+    },
+    {
       "src": "/assets/data/projectdata.json",
       "dest": "/public/assets/data/projectdata.json"
     },
