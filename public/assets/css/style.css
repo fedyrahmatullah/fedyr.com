@@ -318,7 +318,7 @@ section {
   max-width: 600px; /* Adjust as needed */
   margin: 0 auto; /* Centers the container */
   text-align: left; /* Align text to the left */
-  padding: 0 15px; /* Menambahkan padding di sisi kiri dan kanan untuk layar kecil */
+  padding: 0 9px; /* Menambahkan padding di sisi kiri dan kanan untuk layar kecil */
 }
 .contact-icon {
   width: 30px;
