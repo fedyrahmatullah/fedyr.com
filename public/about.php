@@ -37,6 +37,7 @@
       I'm always eager to connect with new people, so feel free to reach out to me through my social media channels below :
       </p>
       <br>
+      <div class="contact-text-container">
       <p>
       <ul>
           <li  style="margin-bottom: 15px;"><strong>Email</strong> - <a href="mailto:fedy.rahmatullah@gmail.com">fedy.rahmatullah@gmail.com</a></li>
