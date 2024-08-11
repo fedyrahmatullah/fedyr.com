@@ -33,13 +33,24 @@
     <p class="section__text__p1">Get in Touch</p>
     <h1 class="title">Contact Me</h1>
     <div class="contact-info-upper-container">
-      <div class="contact-info-container">
-        <img src="./assets/img/email.png" alt="Email icon" class="icon contact-icon email-icon">
-        <p><a href="mailto:fedy.rahmatullah@gmail.com">fedy.rahmatullah@gmail.com</a></p>
-      </div>
-      <div class="contact-info-container">
-        <img src="./assets/img/linkedin.png" alt="LinkedIn icon" class="icon contact-icon">
-        <p><a target="_blank" href="https://www.linkedin.com/in/fedyrahmatullah/">LinkedIn</a></p>
+    <div class="about-text-container">
+      <p color="black">
+      I'm always eager to connect with new people, so feel free to reach out to me through my social media channels below :
+      </p>
+      <br>
+      <p>
+      <ul>
+          <li  style="margin-bottom: 15px;"><strong>Email</strong> - <a href="mailto:fedy.rahmatullah@gmail.com">fedy.rahmatullah@gmail.com</a></li>
+          <li  style="margin-bottom: 15px;"><strong>Github</strong> - <a href="https://github.com/fedyrahmatullah" target="_blank">https://github.com/fedyrahmatullah</a></li>
+          <li  style="margin-bottom: 15px;"><strong>Instagram</strong> - <re href="https://instagram.com/fedyr_" target="_blank">https://instagram.com/fedyr_</a></li>
+          <li  style="margin-bottom: 15px;"><strong>LinkedIn</strong> - <a href="https://www.linkedin.com/in/fedyrahmatullah/" target="_blank">https://www.linkedin.com/in/fedyrahmatullah/</a></li>
+          <li  style="margin-bottom: 15px;"><strong>Medium</strong> - <a href="https://medium.com/@fedyr" target="_blank">https://medium.com/@fedyr</a></li>
+          <li  style="margin-bottom: 15px;"><strong>Tableau Public</strong> - <a href="https://public.tableau.com/app/profile/fedy.rahmatullah" target="_blank">https://public.tableau.com/app/profile/fedy.rahmatullah</a></li>
+          <li  style="margin-bottom: 15px;"><strong>Shutterstock</strong> - <a href="https://www.shutterstock.com/id/g/fedyr" target="_blank">https://www.shutterstock.com/id/g/fedyr</a></li>
+		  </ul>
+
+      </p>
+    </div>
       </div>
     </div>
   </section>
