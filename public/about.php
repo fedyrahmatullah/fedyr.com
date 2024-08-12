@@ -14,11 +14,11 @@
     <br>
     <div class="about-text-container">
       <p class="project-desc">
-        I am an IT and data enthusiast with a deep passion for turning data into actionable insights. I graduated with a Bachelor's degree in Informatics Engineering from <a target="_blank" style="color:black;" href="https://polije.ac.id/"><b>Politeknik Negeri Jember</b></a>, earning a GPA of 3.82. My interests lie in data analysis and visualization, particularly using tools like Tableau. I am constantly learning and seeking new ways to enhance my skills.
+        I am an IT and data enthusiast with a deep passion for turning data into actionable insights. I graduated with a Bachelor's degree in Informatics Engineering from <a target="_blank" style="color:black;" href="https://polije.ac.id/"><b>Politeknik Negeri Jember</b></a>, earning a GPA of 3,82. My interests lie in data analysis and visualization, particularly using tools like Tableau. I am constantly learning and seeking new ways to enhance my skills.
       </p>
       <br>
       <p class="project-desc">
-        During my time in college, I was actively involved in several organizations, serving as Head of Information Systems Division at HMJ TI Politeknik Negeri Jember and as Coordinator for Informatics Engineering Students of 2017, also known as "Ketua Angkatan." These experiences have shaped my approach to problem-solving and fueled my drive to continuously grow in the field of data.
+        During my time in college, I was actively involved in several organizations, serving as Head of Information Systems Division at HMJ TI Politeknik Negeri Jember and as Coordinator for Informatics Engineering Students of 2017. These experiences have shaped my approach to problem-solving and fueled my drive to continuously grow in the field of data.
       </p>
     </div>
   </section>
