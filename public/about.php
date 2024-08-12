@@ -52,6 +52,11 @@
 
         </p>
     </div>
+    <div class="about-text-container">
+      <p class="project-desc">
+      You can also check out <a href="#" onclick="window.open('./assets/resume-example.pdf')"><b>my resume</b></a> here. Thanks for stopping by my profile! 
+      </p>
+    </div>
   </section>
 
 <br>
