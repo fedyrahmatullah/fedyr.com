@@ -128,6 +128,36 @@ project-section {
   
       }
       }
+
+       /* pagination */
+  /* Styling untuk container pagination */
+.pagination {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.pagination a {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: #36393b; /* Warna teks */
+  background-color: #f8f9fa; /* Warna latar belakang */
+  border: 1px solid #dee2e6; /* Warna border */
+  border-radius: 4px; /* Sudut membulat */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.pagination a:hover {
+  background-color: #e9ecef; /* Warna latar belakang saat hover */
+  color: #485058; /* Warna teks saat hover */
+}
+
+.pagination a.active {
+  background-color: #333c46; /* Warna latar belakang tombol aktif */
+  color: #fff; /* Warna teks tombol aktif */
+  border-color: #353c44; /* Warna border tombol aktif */
+}
   
   
     
