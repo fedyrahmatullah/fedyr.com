@@ -29,7 +29,7 @@
 
 
     <div class="project-container">
-        <?php foreach ($projects as $project) : ?>
+        <?php foreach ($current_page_projects as $project) : ?>
             <div class="project-card">
             <div class="image-container">
                 <img src="<?= $project['image'] ?>" alt="<?= $project['title'] ?>">
