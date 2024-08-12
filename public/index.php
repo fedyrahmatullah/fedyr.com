@@ -18,7 +18,7 @@
             class="btn btn-color-2"
             onclick="location.href='projects.php'"
           >
-            My Project
+            My Projects
           </button>
           <button class="btn btn-color-1" onclick="location.href='about.php#contact'">
             Contact Info
