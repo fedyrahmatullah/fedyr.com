@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/img/fedyrweb.png" alt='preview'>
+  <img src="public/assets/img/fedyrweb.png" alt='preview'>
 </p>
 
 <p align="center">
