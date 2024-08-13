@@ -1,5 +1,3 @@
-<br />
-
 <p align="center">
   <b><h1 align="center">fedyr.com</h1></b>
 </p>
