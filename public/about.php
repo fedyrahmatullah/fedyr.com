@@ -25,9 +25,6 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
   
   <section id="contact">
     <p class="section__text__p1">Get in Touch</p>

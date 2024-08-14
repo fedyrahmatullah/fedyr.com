@@ -157,7 +157,7 @@ section {
   padding-top: 4vh;
   margin: 0 10rem;
   box-sizing: border-box;
-  min-height: fit-content;
+  min-height: fit-content; /* bisa diganti 80vh */
 }
 
 .section-container {
