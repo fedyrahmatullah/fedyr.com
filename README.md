@@ -10,7 +10,7 @@
 My first<a href='https://fedyr.com'> personal portfolio website</a>, built with PHP and featuring a "minimal web design" concept.
 </p>
 
-## , 
+## Prerequisites 
 
 - Make sure PHP is installed on your system. You can verify the installation by running `php -v` in your terminal.
 
