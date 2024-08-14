@@ -434,11 +434,11 @@ footer {
   display: flex;
   justify-content: center;  /* Center content horizontally */
   align-items: center;      /* Center content vertically */
-  height: auto;             /* Set a more noticeable height for the footer */
+  height: 50px;             /* Set a more noticeable height for the footer */
   margin: 0 1rem;
   margin-top: 10px;
   bottom: 0;
-
+  clear: both;
 
 }
 
