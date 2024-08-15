@@ -10,7 +10,7 @@
 My first<a href='https://fedyr.com'> personal portfolio website</a>, built with PHP and featuring a "minimal web design" concept.
 </p>
 
-## Prerequisites 
+## Prerequisites
 
 - Make sure PHP is installed on your system. You can verify the installation by running `php -v` in your terminal.
 
@@ -36,6 +36,7 @@ The main content of the website is located in the "public" directory, which is s
 ## Troubleshooting
 
 If you encounter issues while running the server, ensure that:
+
 - You are in the correct directory (public).
 - No other server is running on port 8000.
 - The index.php file exists in the public directory.
