@@ -155,14 +155,14 @@ a:hover {
 
 section {
   padding-top: 4vh;
+  height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
-  min-height: fit-content; /* bisa diganti 80vh */
+  min-height: fit-content;
 }
 
 .section-container {
   display: flex;
-  flex-direction: column;
 }
 
 /* PROFILE SECTION */
@@ -279,7 +279,6 @@ section {
 }
 #contact {
   margin-top: 40px;
-  clear: both;
   padding-bottom: 40px; /* add extra space to avoid overlap */
 }
 .about-pic-container {
@@ -437,7 +436,6 @@ footer {
   height: 50px;             /* Set a more noticeable height for the footer */
   margin: 0 1rem;
   margin-top: 10px;
-  
 
 }
 
