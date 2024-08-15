@@ -279,6 +279,7 @@ section {
 }
 #contact {
   margin-top: 40px;
+  clear: both;
   padding-bottom: 40px; /* add extra space to avoid overlap */
 }
 .about-pic-container {
