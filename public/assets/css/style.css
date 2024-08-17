@@ -466,11 +466,9 @@ footer {
   /* height: 50px;              */
   margin: 0 1rem;
   margin-top: 10px;
-  padding-top: 10em;
 
   /* tambahan */
   position: relative;
-  bottom: 2em;
   font-size: small;
   width:100%;
   height: 2em;
