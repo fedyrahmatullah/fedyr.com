@@ -24,7 +24,7 @@
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Fedy Rahmatullah - IT Enthusiast & Data Analyst | Portfolio">
-    <meta name="twitter:description" content="Explore the personal website of Fedy Rahmatullah, an IT enthusiast and data analyst. Discover projects, experience, and insights into data analysis.">
+    <meta name="twitter:description" content="Personal website of Fedy Rahmatullah, an IT enthusiast and data analyst. Discover projects, experience, and insights into data analysis.">
     <meta name="twitter:image" content="https://fedyr.com/assets/img/favicon.png">
     <script type="application/ld+json">
     {
