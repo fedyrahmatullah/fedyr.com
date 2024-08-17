@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="public/assets/img/fedyrweb.png" alt='Preview of fedyr.com website'>
+  <img src="public/assets/img/fedyrcom.jpg" alt='Preview of fedyr.com website'>
 </p>
 
 <p align="center">
