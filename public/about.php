@@ -2,7 +2,6 @@
   <?php $title = "About • Fedy";
   include'header.php';?>
   <!-- End Header -->
- 
 
   <section id="about">
     <p class="section__text__p1">Get To Know More</p>
@@ -23,11 +22,7 @@
     </div>
   </section>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+
   
   <section id="contact">
     <p class="section__text__p1">Get in Touch</p>
@@ -57,10 +52,9 @@
       You can also check out <a href="#" onclick="window.open('./assets/resume-example.pdf')"><b>my resume here.</b></a> Thanks for stopping by my profile! 
       </p>
     </div>
-  </section>
+  </psection>
 
 <br>
-
 
       <!-- ======= footer ======= -->
       <?php include'footer.php';?>
