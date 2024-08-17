@@ -26,9 +26,9 @@
         </div>
     </nav>
     <nav id="hamburger-nav">
-        <div onclick="location.href='index.php'" class="logo">Fedy Rahmatullah</div>
+        <div onclick="location.href='index.php'" aria-label="Home" class="logo">Fedy Rahmatullah</div>
         <div class="hamburger-menu">
-            <div class="hamburger-icon" onclick="toggleMenu()">
+            <div class="hamburger-icon" aria-label="Toggle Menu" onclick="toggleMenu()">
                 <span></span>
                 <span></span>
                 <span></span>
