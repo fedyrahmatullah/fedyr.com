@@ -22,11 +22,7 @@
     </div>
   </section>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+
 
   
   <section id="contact">
