@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="description" content="Personal website of Fedy Rahmatullah. An IT and Data Enthusiast.">
     <meta name="author" content="Fedy Rahmatullah">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="Fedy Rahmatullah, IT Enthusiast, Data Analysis, Personal Portfolio, Projects, Experience">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="assets/css/style.css" />
