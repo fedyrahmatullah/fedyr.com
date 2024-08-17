@@ -2,7 +2,7 @@
   {
     "title": "Exploratory Data Analysis of Airbnb New York City Using Python",
     "image": "assets/img/project/eda-airbnb.png",
-    "description": "This EDA of Airbnb NYC aims to analyze the Airbnb market in New York City, serving as a guide for business strategy development by Airbnb hosts or for planning by potential renters. The data is processed in Jupyter Notebook and visualized with Tableau.",
+    "description": "This EDA of Airbnb NYC aims to analyze the Airbnb market in New York City, serving as a guide for business strategy development by Airbnb hosts or for planning by potential renters.",
     "createdAt": "2022-04-01",
     "technology": ["Jupyter Notebook", "Python", "Tableau", "Medium", "Data Visualization", "Data Analysis"],
     "url": "https://medium.com/@fedyr/exploratory-data-analysis-airbnb-new-york-city-menggunakan-python-f7689e3a1f24",
