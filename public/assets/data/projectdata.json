@@ -9,9 +9,9 @@
     "source": "https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb"
   },
   {
-    "title": "“DO YOU REALIZE HOW VALUABLE YOU (your personal information) ARE?”",
+    "title": "Dark Web Price Index 2021 Analysis",
     "image": "assets/img/project/darkwebprice.png",
-    "description": "Analyzing 2021 Dark Web data, this visualization shows the price index for personal information, focusing on categories, products, and average prices. Created for #MakeOverMonday Week 38.",
+    "description": "“DO YOU REALIZE HOW VALUABLE YOU (your personal information) ARE?” This visualization shows the price index for personal information, focusing on categories, products, and average prices. Created for #MakeOverMonday Week 38.",
     "createdAt": "2022-04-07",
     "technology": ["Tableau", "Data Visualization", "Data Analysis"],
     "url": "https://public.tableau.com/views/HowValuableYouYourPersonalInformationAre-MakeOverMonday2021W38/HowValuableYouAre?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
