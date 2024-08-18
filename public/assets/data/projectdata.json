@@ -9,6 +9,15 @@
     "source": "https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb"
   },
   {
+    "title": "Indonesia Mudik 2022",
+    "image": "assets/img/project/mudik2022indo.jpg",
+    "description": "Visualizing the 2022 mudik phenomenon in Indonesia: traveler percentages, popular destinations, transportation used, and fuel availability.",
+    "createdAt": "2022-04-27",
+    "technology": ["Tableau", "Data Visualization", "Data Analysis"],
+    "url": "https://public.tableau.com/views/IndonesiaMudik2022/MUDIK2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "source": "https://github.com/fedyrahmatullah/Tableau/tree/main"
+  },
+  {
     "title": "Dark Web Price Index 2021 Analysis",
     "image": "assets/img/project/darkwebprice.png",
     "description": "“DO YOU REALIZE HOW VALUABLE YOU (your personal information) ARE?” This visualization shows the price index for personal information on the dark web, focusing on categories, products, and average prices.",
