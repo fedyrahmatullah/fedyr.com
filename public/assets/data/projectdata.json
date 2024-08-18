@@ -36,6 +36,15 @@
     "source": "https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales"
   },
   {
+    "title": "Sentiment Analysis Toward Coronavirus on Twitter Using Python and Naive Bayes Classifier",
+    "image": "assets/img/project/twitter.jpg",
+    "description": "This project aims to assess public sentiment regarding the coronavirus on Twitter in Indonesia. The Naive Bayes Classifier was utilized, achieving accuracy, precision, recall, and F-measure scores of 70.73%, 71.36%, 67.27%, and 69.26%, respectively.",
+    "createdAt": "2021-06-01",
+    "technology": ["Data Scrapping", "Data Cleaning", "Jupyter Notebook", "Sentiment Analysis", "Data Visualization"],
+    "url": "https://sipora.polije.ac.id/6098/",
+    "source": "https://github.com/fedyrahmatullah/fedy_twitter-"
+  },
+  {
     "title": "Hidrologi-PUPR Website",
     "image": "https://res.cloudinary.com/djwn34zsp/image/upload/v1723352830/pupr2_y0oj9l.png",
     "description": "Hidrologi-PUPR is a collaborative project with Direktorat Jenderal SDA BBWS Brantas - Kementerian PUPR. You can view the distribution of 'Hydrology Stations' and 'Water Quality Monitoring Stations' in each area using the map.",
