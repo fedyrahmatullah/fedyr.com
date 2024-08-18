@@ -9,6 +9,15 @@
     "source": "https://github.com/fedyrahmatullah/Dashboard-Data-of-NYC-Airbnb"
   },
   {
+    "title": "Supermarket Sales Dashboard",
+    "image": "assets/img/project/supermarket_sales.png",
+    "description": "Visualized with Tableau, this dashboard offers insights into supermarket sales. It includes total sales, member count, items sold, weekly product sales analysis, payment method breakdown, and top product line performance. This data can be utilized for evaluation and sales strategy planning.",
+    "createdAt": "2022-04-07",
+    "technology": ["Tableau", "Data Visualization", "Data Analysis"],
+    "url": "https://public.tableau.com/views/DashboardTesting_16492927591580/SALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "source": "https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales"
+  },
+  {
     "title": "Hidrologi-PUPR Website",
     "image": "https://res.cloudinary.com/djwn34zsp/image/upload/v1723352830/pupr2_y0oj9l.png",
     "description": "Hidrologi-PUPR is a collaborative project with Direktorat Jenderal SDA BBWS Brantas - Kementerian PUPR. You can view the distribution of 'Hydrology Stations' and 'Water Quality Monitoring Stations' in each area using the map.",
