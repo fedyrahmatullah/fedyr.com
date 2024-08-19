@@ -1,5 +1,14 @@
 [
   {
+    "title": "Coffe Chain Sales Analysis",
+    "image": "assets/img/project/coffechain_sales.jpg",
+    "description": "This Tableau dashboard analyzes coffee chain sales, showcasing profit, sales, COGS, margin, sales achievement, inventory composition, actual vs. target comparison, statewise sales and profit, and a comprehensive data summary. It also includes a storyline with insights for business evaluation and planning.",
+    "createdAt": "2022-06-25",
+    "technology": ["Tableau", "Data Visualization", "Data Analysis"],
+    "url": "https://public.tableau.com/views/CoffeeChainDashboard_16561421437240/StoryCoffeChain?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "source": "https://data.world/2918diy/coffee-chain/workspace/file?filename=Coffee+Chain.txt"
+  },
+  {
     "title": "Exploratory Data Analysis of Airbnb New York City Using Python",
     "image": "assets/img/project/eda-airbnb.png",
     "description": "This EDA of Airbnb NYC aims to analyze the Airbnb market in New York City, serving as a guide for business strategy development by Airbnb hosts or for planning by potential renters.",
