@@ -1,5 +1,14 @@
 [
-    {
+  {
+    "title": "WAK Mayang Website",
+    "image": "assets/img/project/wakmayang.png",
+    "description": "WAK Mayang provides up-to-date information on civil registration services in Kecamatan Silo, Mayang, and Mumbulsari — including submission methods, self-downloadable forms, service schedules, and important announcements. All in one place.",
+    "createdAt": "2025-06-09",
+    "technology": ["Javascript", "HTML", "CSS", "Spreadsheet", "Opensheet"],
+    "url": "https://wakmayang.fedyr.com/",
+    "source": null
+  },  
+  {
     "title": "Hidrologi-PUPR Website",
     "image": "https://res.cloudinary.com/djwn34zsp/image/upload/v1723352830/pupr2_y0oj9l.png",
     "description": "Hidrologi-PUPR is a collaborative project with Direktorat Jenderal SDA BBWS Brantas - Kementerian PUPR. You can view the distribution of 'Hydrology Stations' and 'Water Quality Monitoring Stations' in each area using the map.",
