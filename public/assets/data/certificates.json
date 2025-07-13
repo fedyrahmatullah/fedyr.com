@@ -1,51 +1,100 @@
 [
+    {
+    "title": "ASEAN Data Science Explorers 2023",
+    "issuer": "ASEAN Foundation",
+    "date": "Issued May 2023",
+    "link": "https://drive.google.com/file/d/1JL65TJpn4HDSYX_-NJCaGPqT8f0MyD27/view?usp=sharing",
+    "image": "./assets/img/certif/asean2.png"
+  },
   {
     "title": "Certificate of Competence As Web Developer",
     "issuer": "BNSP",
     "date": "Issued Apr 2021",
-    "link": "https://www.udemy.com/certificate/example-link",
+    "link": "https://drive.google.com/file/d/1DzvazFEaORuCI-mtyYwKiTwJdqJ7Bgm0/view?usp=sharing",
     "image": "./assets/img/certif/bnsp.png"
   },
   {
-    "title": "Network Security Fundamentals",
-    "issuer": "Certiport",
-    "date": "Issued 07/03/2022",
-    "link": "https://www.example.com/certificate/network-security",
-    "image": "./assets/img/certif/certif.png"
+    "title": "Tableau Essential Training",
+    "issuer": "LinkedIn",
+    "date": "Issued Apr 2022",
+    "link": "https://www.linkedin.com/learning/certificates/669dcc9dc70c8df6aa103fc4552f8ff9120a28ef333fb6de637b1902f6431405?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BktEmZ2ZBRMCC9GBCwrUSGA%3D%3D",
+    "image": "./assets/img/certif/linkedin.png"
   },
   {
-    "title": "Cybersecurity Essentials",
-    "issuer": "Certiport",
-    "date": "Issued 06/20/2023",
-    "link": "https://www.example.com/certificate/cybersecurity",
-    "image": "./assets/img/certif/certif.png"
+    "title": "Belajar Menerapkan Dasar Pengolahan Data untuk Seorang Data Analyst",
+    "issuer": "Cakap",
+    "date": "Issued Jun 2022",
+    "link": "https://s3.ap-southeast-1.amazonaws.com/squline-storage/selfpaced/certificate/Cakap/1654039538983_922574399.pdf",
+    "image": "./assets/img/certif/cakap.png"
   },
   {
-    "title": "HTML & CSS Basics",
-    "issuer": "Udemy",
-    "date": "Issued 01/15/2023",
-    "link": "https://www.udemy.com/certificate/example-link-2",
-    "image": "./assets/img/certif/certif.png"
+    "title": "RevoU Mini Course Data Analytics",
+    "issuer": "RevoU",
+    "date": "Issued Apr 2022",
+    "link": "https://certificates.revou.co/fedy-rahmatullah-certificate-completion-damc22.pdf",
+    "image": "./assets/img/certif/revou.png"
   },
     {
-    "title": "Cybersecurity Essentials",
-    "issuer": "Certiport",
-    "date": "Issued 06/20/2023",
-    "link": "https://www.example.com/certificate/cybersecurity",
-    "image": "./assets/img/certif/certif.png"
+    "title": "Python Fundamental for Data Science",
+    "issuer": "DQLab",
+    "date": "Issued Mar 2022",
+    "link": "https://academy.dqlab.id/certificate/pdf/DQLABINTP1UNNFAE/NONTRACK",
+    "image": "./assets/img/certif/dqlab.png"
   },
     {
-    "title": "Cybersecurity Essentials",
-    "issuer": "Certiport",
-    "date": "Issued 06/20/2023",
-    "link": "https://www.example.com/certificate/cybersecurity",
-    "image": "./assets/img/certif/certif.png"
+    "title": "Certificate of Competence in Microsoft Office",
+    "issuer": "Politeknik Negeri Jember",
+    "date": "Issued Oct 2021",
+    "link": "https://drive.google.com/file/d/1F7dFQmsTI9dFA0lnrZGnLzGAxrCNXnSD/view?usp=sharing",
+    "image": "./assets/img/certif/polije.png"
   },
     {
-    "title": "Cybersecurity Essentials",
-    "issuer": "Certiport",
-    "date": "Issued 06/20/2023",
-    "link": "https://www.example.com/certificate/cybersecurity",
-    "image": "./assets/img/certif/certif.png"
+    "title": "Problem Solving (Basic) Certificate",
+    "issuer": "HackerRank",
+    "date": "Issued Sep 2021",
+    "link": "https://www.hackerrank.com/certificates/00074848b856",
+    "image": "./assets/img/certif/hr.png"
+  },
+      {
+    "title": "Python (Basic) Certificate",
+    "issuer": "HackerRank",
+    "date": "Issued sep 2021",
+    "link": "https://www.hackerrank.com/certificates/00f2cc90035c",
+    "image": "./assets/img/certif/hr.png"
+  },
+      {
+    "title": "Python Course : Python Fundamental for Software Development",
+    "issuer": "Progate",
+    "date": "Issued Sep 2021",
+    "link": "https://progate.com/course_certificate/59d0dfb4qzxwab",
+    "image": "./assets/img/certif/progate.png"
+  },
+      {
+    "title": "R Fundamental for Data Science",
+    "issuer": "DQLab",
+    "date": "Issued Sep 2021",
+    "link": "https://academy.dqlab.id/certificate/pdf/DQLABINTR1AHCTDR",
+    "image": "./assets/img/certif/dqlab.png"
+  },
+      {
+    "title": "SQL Fundamentals",
+    "issuer": "Progate",
+    "date": "Issued Sep 2021",
+    "link": "https://progate.com/course_certificate/8131cf4ar01e6w",
+    "image": "./assets/img/certif/progate.png"
+  },
+      {
+    "title": "Belajar Dasar Visualisasi Data",
+    "issuer": "Dicoding Indonesia",
+    "date": "Issued Jan 2022",
+    "link": "https://www.dicoding.com/certificates/07Z65E53YXQR",
+    "image": "./assets/img/certif/dicoding.png"
+  },
+      {
+    "title": "Memulai Pemrograman Dengan Python",
+    "issuer": "Dicoding Indonesia",
+    "date": "Issued Mar 2021",
+    "link": "https://www.dicoding.com/certificates/2VX3N0M53XYQ",
+    "image": "./assets/img/certif/dicoding.png"
   }
 ]
