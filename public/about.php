@@ -22,6 +22,7 @@
     </div>
   </section>
   <br>
+  <br>
 
 <section id="certificates">
   <div class="about-text-container about-text-center">
@@ -49,7 +50,7 @@
     <?php endforeach; ?>
   </div>
 </section>
-  
+  <br>
   <section id="contact">
     <p class="section__text__p1">Get in Touch</p>
     <h1 class="title">Contact Me</h1>
