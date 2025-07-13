@@ -620,3 +620,97 @@ footer p {
 .badge-dark:before{
   background: #171a1d;
 }
+
+
+/* Certificate */
+.certificates-grid-logo-only {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Tetap 3 kolom */
+  gap: 40px 40px; /* 60px untuk baris (atas-bawah), 40px untuk kolom (kiri-kanan) */
+  flex-wrap: wrap;
+  max-width: 600px;
+  margin: 40px auto 0;
+  justify-items: center;
+  align-items: start; /* atas biar item sejajar */
+  
+}
+
+.certificate-logo-item {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+   max-width: 180px;
+   width: 100%;
+  align-items: center;
+}
+
+.certificate-logo-item img {
+  width: 140px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.certificate-logo-item img:hover {
+  transform: scale(1.05);
+}
+
+/* Judul Sertifikat */
+.cert-title {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 8px 0 4px;
+  max-width: 140px;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+   color: inherit;
+  text-decoration: none; /* ✅ ini yang menghilangkan underline */
+}
+
+/* Munculkan full judul saat hover lewat tooltip bawaan */
+.cert-title:hover {
+  overflow: visible;
+  white-space: normal;
+  position: relative;
+  z-index: 1;
+  color: inherit;
+   text-decoration: none; /* ✅ ini yang menghilangkan underline */
+}
+
+/* Tooltip pakai title HTML biasa */
+.cert-title[title] {
+  position: relative;
+}
+
+/* Issuer dan tanggal */
+.cert-issuer,
+.cert-date {
+  font-size: 13px;
+  color: #666;
+  text-align: center;
+
+}
+
+/* Section heading center */
+.about-text-center {
+  text-align: center !important;
+}
+
+#certificates .project-desc {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .certificates-grid-logo-only {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .certificates-grid-logo-only {
+    grid-template-columns: 1fr;
+  }
+}

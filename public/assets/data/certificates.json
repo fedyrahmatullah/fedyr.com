@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Certificate of Competence As Web Developer",
+    "issuer": "BNSP",
+    "date": "Issued Apr 2021",
+    "link": "https://www.udemy.com/certificate/example-link",
+    "image": "./assets/img/certif/bnsp.png"
+  },
+  {
+    "title": "Network Security Fundamentals",
+    "issuer": "Certiport",
+    "date": "Issued 07/03/2022",
+    "link": "https://www.example.com/certificate/network-security",
+    "image": "./assets/img/certif/certif.png"
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "issuer": "Certiport",
+    "date": "Issued 06/20/2023",
+    "link": "https://www.example.com/certificate/cybersecurity",
+    "image": "./assets/img/certif/certif.png"
+  },
+  {
+    "title": "HTML & CSS Basics",
+    "issuer": "Udemy",
+    "date": "Issued 01/15/2023",
+    "link": "https://www.udemy.com/certificate/example-link-2",
+    "image": "./assets/img/certif/certif.png"
+  },
+    {
+    "title": "Cybersecurity Essentials",
+    "issuer": "Certiport",
+    "date": "Issued 06/20/2023",
+    "link": "https://www.example.com/certificate/cybersecurity",
+    "image": "./assets/img/certif/certif.png"
+  },
+    {
+    "title": "Cybersecurity Essentials",
+    "issuer": "Certiport",
+    "date": "Issued 06/20/2023",
+    "link": "https://www.example.com/certificate/cybersecurity",
+    "image": "./assets/img/certif/certif.png"
+  },
+    {
+    "title": "Cybersecurity Essentials",
+    "issuer": "Certiport",
+    "date": "Issued 06/20/2023",
+    "link": "https://www.example.com/certificate/cybersecurity",
+    "image": "./assets/img/certif/certif.png"
+  }
+]

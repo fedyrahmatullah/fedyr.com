@@ -23,7 +23,32 @@
   </section>
   <br>
 
+<section id="certificates">
+  <div class="about-text-container about-text-center">
+    <p class="section__text__p1">Browse my achievements</p>
+    <h1 class="title">Certificates</h1>
+    <p class="project-desc">
+      Certifications and awards that showcase my journey of continuous learning and expertise in the field.
+    </p>
+  </div>
 
+  <div class="certificates-grid-logo-only">
+    <?php
+      $certs = json_decode(file_get_contents(__DIR__ . "/assets/data/certificates.json"), true);
+      foreach ($certs as $cert):
+    ?>
+    <div class="certificate-logo-item">
+      <img src="<?= htmlspecialchars($cert['image']) ?>" alt="<?= htmlspecialchars($cert['title']) ?>" />
+      <a href="<?= htmlspecialchars($cert['link']) ?>" target="_blank"
+         class="cert-title" title="<?= htmlspecialchars($cert['title']) ?>">
+        <?= htmlspecialchars($cert['title']) ?>
+      </a>
+      <p class="cert-issuer"><?= htmlspecialchars($cert['issuer']) ?></p>
+      <p class="cert-date"><?= htmlspecialchars($cert['date']) ?></p>
+    </div>
+    <?php endforeach; ?>
+  </div>
+</section>
   
   <section id="contact">
     <p class="section__text__p1">Get in Touch</p>
