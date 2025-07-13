@@ -69,6 +69,7 @@
             <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>LinkedIn</strong> - <a href="https://www.linkedin.com/in/fedyrahmatullah/" target="_blank">https://www.linkedin.com/in/fedyrahmatullah/</a></li>
             <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>Medium</strong> - <a href="https://medium.com/@fedyr" target="_blank">https://medium.com/@fedyr</a></li>
             <li  style="margin-bottom: 15px;overflow-wrap : break-word;"><strong>Tableau Public</strong> - <a href="https://public.tableau.com/app/profile/fedy.rahmatullah" target="_blank">https://public.tableau.com/app/profile/fedy.rahmatullah</a></li>
+            <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Goodreads</strong> - <a href="https://goodreads.com/fedyr" target="_blank">https://goodreads.com/fedyr</a></li>
             <li  style="margin-bottom: 15px; overflow-wrap : break-word;"><strong>Shutterstock</strong> - <a href="https://www.shutterstock.com/id/g/fedyr" target="_blank">https://www.shutterstock.com/id/g/fedyr</a></li>
         </ul>
 
