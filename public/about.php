@@ -26,10 +26,10 @@
 
 <section id="certificates">
   <div class="about-text-container about-text-center">
-    <p class="section__text__p1">Browse my achievements</p>
+    <p class="section__text__p1">Explore My Certifications</p>
     <h1 class="title">Certificates</h1>
     <p class="project-desc">
-      Certifications and awards that showcase my journey of continuous learning and expertise in the field.
+      A collection of certifications that reflect my continuous learning and proven skills in data, development, and technology
     </p>
   </div>
 
