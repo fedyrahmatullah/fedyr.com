@@ -16,11 +16,11 @@
         <div class="btn-container">
           <button
             class="btn btn-color-2"
-            onclick="location.href='projects.php'"
+            onclick="location.href='projects'"
           >
             My Projects
           </button>
-          <button class="btn btn-color-1" onclick="location.href='about.php#contact'">
+          <button class="btn btn-color-1" onclick="location.href='about#contact'">
             Contact Info
           </button>
         </div>
