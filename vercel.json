@@ -10,16 +10,11 @@
       "status": 301,
       "headers": { "Location": "/" }
     },
-    {
-      "src": "/([a-zA-Z0-9_-]+)\\.php",
-      "status": 301,
-      "headers": { "Location": "/$1" }
-    },
         {
       "src": "/projects/page/([0-9]+)",
       "dest": "/api/projects.php?page=$1"
     },
-        {
+      {
       "src": "/projects",
       "dest": "/api/projects.php"
     },
@@ -70,6 +65,11 @@
     {
       "src": "/assets/resume-example.pdf",
       "dest": "/public/assets/resume-example.pdf"
+    },
+        {
+      "src": "/([a-zA-Z0-9_-]+)\\.php",
+      "status": 301,
+      "headers": { "Location": "/$1" }
     },
     {
       "src": "/(.*)",
