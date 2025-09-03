@@ -39,7 +39,7 @@
 </head>
 <body>
     <nav id="desktop-nav">
-        <div onclick="location.href='index.php'" class="logo">Fedy Rahmatullah</div>
+        <div onclick="location.href='./'" class="logo">Fedy Rahmatullah</div>
         <div>
             <ul class="nav-links">
                 <li><a href="./">Home</a></li>
@@ -49,7 +49,7 @@
         </div>
     </nav>
     <nav id="hamburger-nav">
-        <div onclick="location.href='index.php'" aria-label="Home" class="logo">Fedy Rahmatullah</div>
+        <div onclick="location.href='./'" aria-label="Home" class="logo">Fedy Rahmatullah</div>
         <div class="hamburger-menu">
             <div class="hamburger-icon" aria-label="Toggle Menu" onclick="toggleMenu()">
                 <span></span>
