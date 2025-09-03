@@ -57,9 +57,9 @@
                 <span></span>
             </div>
             <div class="menu-links">
-                <li><a href="index.php" onclick="toggleMenu()">Home</a></li>
-                <li><a href="projects.php" onclick="toggleMenu()">Projects</a></li>
-                <li><a href="about.php" onclick="toggleMenu()">About</a></li>
+                <li><a href="./" onclick="toggleMenu()">Home</a></li>
+                <li><a href="projects" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="about" onclick="toggleMenu()">About</a></li>
             </div>
         </div>
     </nav>
