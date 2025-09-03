@@ -42,9 +42,9 @@
         <div onclick="location.href='index.php'" class="logo">Fedy Rahmatullah</div>
         <div>
             <ul class="nav-links">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="projects.php">Projects</a></li>
-                <li><a href="about.php">About</a></li>
+                <li><a href="./">Home</a></li>
+                <li><a href="projects">Projects</a></li>
+                <li><a href="about">About</a></li>
             </ul>
         </div>
     </nav>
