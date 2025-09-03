@@ -39,17 +39,17 @@
 </head>
 <body>
     <nav id="desktop-nav">
-        <div onclick="location.href='./'" class="logo">Fedy Rahmatullah</div>
+        <div onclick="location.href='index.php'" class="logo">Fedy Rahmatullah</div>
         <div>
             <ul class="nav-links">
-                <li><a href="./">Home</a></li>
-                <li><a href="projects">Projects</a></li>
-                <li><a href="about">About</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="projects.php">Projects</a></li>
+                <li><a href="about.php">About</a></li>
             </ul>
         </div>
     </nav>
     <nav id="hamburger-nav">
-        <div onclick="location.href='./'" aria-label="Home" class="logo">Fedy Rahmatullah</div>
+        <div onclick="location.href='index.php'" aria-label="Home" class="logo">Fedy Rahmatullah</div>
         <div class="hamburger-menu">
             <div class="hamburger-icon" aria-label="Toggle Menu" onclick="toggleMenu()">
                 <span></span>
@@ -57,9 +57,9 @@
                 <span></span>
             </div>
             <div class="menu-links">
-                <li><a href="./" onclick="toggleMenu()">Home</a></li>
-                <li><a href="projects" onclick="toggleMenu()">Projects</a></li>
-                <li><a href="about" onclick="toggleMenu()">About</a></li>
+                <li><a href="index.php" onclick="toggleMenu()">Home</a></li>
+                <li><a href="projects.php" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="about.php" onclick="toggleMenu()">About</a></li>
             </div>
         </div>
     </nav>
