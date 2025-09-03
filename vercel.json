@@ -6,19 +6,25 @@
   },
   "routes": [
     {
-      "src": "/api/index.php",
-      "dest": "/api/index.php"
+      "src": "/index.php",
+      "status": 301,
+      "headers": { "Location": "/" }
+    },
+        {
+      "src": "^/([a-zA-Z0-9_-]+)\\.php$",
+      "status": 301,
+      "headers": { "Location": "/$1" }
+    },
+        {
+      "src": "/projects/page/([0-9]+)",
+      "dest": "/api/projects.php?page=$1"
     },
     {
-      "src": "/api/projects.php",
+      "src": "/projects",
       "dest": "/api/projects.php"
     },
     {
-      "src": "/projects.php",
-      "dest": "/api/projects.php"
-    },
-    {
-      "src": "/about.php",
+      "src": "/about",
       "dest": "/api/about.php"
     },
     {
