@@ -69,7 +69,8 @@
         {
       "src": "/([a-zA-Z0-9_-]+)\\.php",
       "status": 301,
-      "headers": { "Location": "/$1" }
+      "headers": { "Location": "/$1" },
+       "continue": true
     },
     {
       "src": "/(.*)",
